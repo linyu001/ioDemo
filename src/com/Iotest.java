@@ -5,7 +5,7 @@ public class Iotest {
         String a="!";
         getStr();
         System.out.println("master分支"+a);
-        System.out.println("测试");
+        System.out.println("测试2");
 
     }
 
